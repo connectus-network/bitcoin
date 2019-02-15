@@ -3,31 +3,32 @@ Bitcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+https://connectus.mx
 
-What is Bitcoin?
+What is ConnectUS Network?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
+ConnectUS is an experimental digital Community with a crypto currency that enables instant connections to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+out collectively by the network. ConnectUS Network is open source
+software which enables the use of this method free to anybody that wants it.
 
-For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoincore.org/en/download/, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+For more information and instant help, as well as an immediately useable, binary version of
+the Bitcoin Core software, see connectus.mx, or read the
+[original whitepaper](https://connectus.mx/connectusdao.pdf).
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
+Bitcoin Core is released under the terms of the MIT license. See [Creative](Commons) for more
+information or see https://opensource.org/licenses/MIT. Copy is the problem of the world... but its the solution now.
 
 Development Process
 -------------------
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
+We are always remaking ourselfs, the only importan thing is that you are having fun and the rest is the best.
+The `Matriarchy` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
 regularly to indicate new official, stable release versions of Bitcoin Core.
 
